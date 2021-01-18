@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Teams</name>
+    </assembly>
+    <members>
+        <member name="T:Teams.Data.Models.Team">
+            <summary>
+            Команда.
+            </summary>
+        </member>
+        <member name="P:Teams.Data.Models.Team.Name">
+            <summary>
+            Имя команды
+            </summary>
+        </member>
+        <member name="T:Teams.Models.Settings.AppSettings">
+            <summary>
+            Настройки приложения.
+            </summary>
+        </member>
+        <member name="P:Teams.Models.Settings.AppSettings.Kestrel">
+            <summary>
+            Настройки сервера Kestrel.
+            </summary>
+        </member>
+        <member name="P:Teams.Models.Settings.AppSettings.Connection">
+            <summary>
+            Настройки подключения.
+            </summary>
+        </member>
+        <member name="T:Teams.Models.Settings.ConnectionSettings">
+            <summary>
+            Настройки подключения.
+            </summary>
+        </member>
+        <member name="P:Teams.Models.Settings.ConnectionSettings.DatabaseConnection">
+            <summary>
+            Настроки подключения к Базе данных.
+            </summary>
+        </member>
+        <member name="T:Teams.Models.Settings.KestrelSettings">
+            <summary>
+            Настройки сервера Kestrel.
+            </summary>
+        </member>
+        <member name="P:Teams.Models.Settings.KestrelSettings.Port">
+            <summary>
+            Порт.
+            </summary>
+        </member>
+    </members>
+</doc>
